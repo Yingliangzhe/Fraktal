@@ -21,7 +21,6 @@ int main(void)
 	tParam p;
 	int abbruch;
 
-
   	/*--- Initialwerte -----------------------------------------------------*/
 	p.R = 2;
 	p.ftype = 1;
