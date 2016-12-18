@@ -10,7 +10,6 @@
 
 #include "graphic.h"
 
-
 /*----- Definitionen -------------------------------------------------------*/
 
 #define WIDTH 640
