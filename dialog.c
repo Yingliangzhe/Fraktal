@@ -16,7 +16,6 @@
 
 enum bool {FALSE, TRUE};
 
-
 /*--- Tastatureingabe lesen und nur ersten Character beachten --------------*/
 
 char InputChar ()
